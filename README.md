@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
+# Para visualizar
+
+Para visualizar correctamente el funcionamiento de la app es necesario usar [JSON Server](https://www.npmjs.com/package/json-server), realizar la instalación de la página y correr el comando de inicialización del servidor dentro de la carpeta HEROES-SERVER.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
