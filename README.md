@@ -12,7 +12,7 @@ Este proyecto fue hecho desde cero con Angular, esta aplicación permite al usua
 
 ### Para visualizar
 
-Para visualizar correctamente el funcionamiento de la app es necesario usar [JSON Server](https://www.npmjs.com/package/json-server), realizar la instalación de la página y correr el comando de inicialización del servidor dentro de la carpeta HEROES-SERVER.
+Para visualizar correctamente el funcionamiento de la app es necesario usar [JSON Server](https://www.npmjs.com/package/json-server), realizar la instalación de la página y correr el comando de inicialización del servidor ```json-server --watch db.json``` dentro de la carpeta HEROES-SERVER.
 
 ## Development server
 
