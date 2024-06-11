@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'http://localhost:4247'
+  baseUrl: 'https://heroesapi-24tt.onrender.com'
 };
